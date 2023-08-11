@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T01:48:33.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.1.1" etag="Qrm-mnT7Ryg-D01wApWy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T02:03:45.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="acxaWMaMR_-3itByma4G" version="21.6.8" type="github">
   <diagram name="第 1 页" id="wMRtLWTNeJKkZG_CvdFl">
-    <mxGraphModel>
+    <mxGraphModel dx="746" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8t66e39WiKzzv56jQgUU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;endArrow=block;endFill=1;targetPerimeterSpacing=0;strokeColor=#B85450;" edge="1" parent="1" source="8t66e39WiKzzv56jQgUU-1" target="8t66e39WiKzzv56jQgUU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-1" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;增值型&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-8" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=block;strokeColor=#B85450;strokeWidth=3;endFill=1;targetPerimeterSpacing=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8t66e39WiKzzv56jQgUU-5" target="8t66e39WiKzzv56jQgUU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-11" value="&lt;b&gt;&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 14px;&quot;&gt;缺钱怎么办&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="8t66e39WiKzzv56jQgUU-8">
+          <mxGeometry x="0.1958" y="-1" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#B85450;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=block;endFill=1;targetPerimeterSpacing=0;" edge="1" parent="1" source="8t66e39WiKzzv56jQgUU-5" target="8t66e39WiKzzv56jQgUU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-12" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#b85450&quot;&gt;&lt;b&gt;钱多如何花&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="8t66e39WiKzzv56jQgUU-10">
+          <mxGeometry x="-0.0125" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-5" value="&lt;font color=&quot;#b85450&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;解决资金问题&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=#b85450;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-7" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#b85450&quot;&gt;&lt;b&gt;增值型现金短缺&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8t66e39WiKzzv56jQgUU-9" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#b85450&quot;&gt;&lt;b&gt;增值型现金剩余&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
